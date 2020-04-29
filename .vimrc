@@ -33,7 +33,7 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
-set ts=4 sw=4
+set ts=2 sw=2
 syntax on
 set backspace=indent,eol,start
 set number
